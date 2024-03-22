@@ -1,0 +1,7 @@
+C:\Users\marinc9\Documents\GitHub\LCOS-Mods\CMScoobyLaughMod\CMSound_Mod\obj\Debug\netstandard2.1\CMSound_Mod.csproj.AssemblyReference.cache
+C:\Users\marinc9\Documents\GitHub\LCOS-Mods\CMScoobyLaughMod\CMSound_Mod\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\marinc9\Documents\GitHub\LCOS-Mods\CMScoobyLaughMod\CMSound_Mod\obj\Debug\netstandard2.1\CMSound_Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marinc9\Documents\GitHub\LCOS-Mods\CMScoobyLaughMod\CMSound_Mod\obj\Debug\netstandard2.1\CMSound_Mod.AssemblyInfoInputs.cache
+C:\Users\marinc9\Documents\GitHub\LCOS-Mods\CMScoobyLaughMod\CMSound_Mod\obj\Debug\netstandard2.1\CMSound_Mod.AssemblyInfo.cs
+C:\Users\marinc9\Documents\GitHub\LCOS-Mods\CMScoobyLaughMod\CMSound_Mod\obj\Debug\netstandard2.1\CMSound_Mod.csproj.CoreCompileInputs.cache
+C:\Users\marinc9\Documents\GitHub\LCOS-Mods\CMScoobyLaughMod\CMSound_Mod\obj\Debug\netstandard2.1\CMSound_Mod.sourcelink.json

@@ -1,8 +1,8 @@
 {
     "name": "Scooby_Laugh_Sound_Mod",
-    "version_number": "0.0.2",
+    "version_number": "0.1.0",
     "website_url": "https://github.com/Christian2147/LCOS-Scooby-Laughing-Sound-Mod",
-    "description": "A mod that adds in a Scooby laugh sound effect to the game. This sound effect plays every time a new game is started.",
+    "description": "A mod that adds in a Scooby laugh sound effect to the game. The Scooby Laugh sound has a random chance of replacing 15 different sounds in the game and replaces the ship intro sound.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]

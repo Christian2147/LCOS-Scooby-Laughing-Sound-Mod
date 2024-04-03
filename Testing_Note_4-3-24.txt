@@ -1,0 +1,5 @@
+This is a note saying that I have tested the updates to my mod.
+
+I include this note regarding testing this time around because it took extra long to test this time because I was working with 15 random variables and the modification of 15 different sounds.
+
+Testing time: Approximatly 30-45 minutes.
